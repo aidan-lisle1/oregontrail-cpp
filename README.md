@@ -32,5 +32,5 @@ You manage a travel party, make critical decisions, and try to survive the journ
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/OregonTrail-CPP.git
-   cd OregonTrail-CPP
+   git clone https://github.com/aidan-lisle1/oregontrail-cpp.git
+   cd oregontrail-cpp
